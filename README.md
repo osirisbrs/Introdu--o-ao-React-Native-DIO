@@ -1,6 +1,5 @@
 # Introducao-ao-React-Native-DIO
 
-
 ![8db4b501-aa39-4db5-99ae-a6e92b95afbb](https://user-images.githubusercontent.com/87140348/176586174-05f0bcbe-4ecc-4ef4-9bcd-469466a4db52.jpg)
 
 #Conteúdo
@@ -9,15 +8,15 @@
 -Origens RN
 -Documentação
   -Componentes
-  -API 
+  -API
   -Comunidade(BLOD)
 Setup
   -Chocolatey
   -Node
   -expo
 -Criação do projeto
-    -Uso do RN CLI
-    -Estrutura de pasta
+  -Uso do RN CLI
+  -Estrutura de pasta
 -Projeto
   -View
   -Text
@@ -29,5 +28,3 @@ Setup
   -Pressable
   -Linking API
   -ADD queries no Manifest para permissões no android
-  
-  
